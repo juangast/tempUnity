@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ee94419f8a5e471ab67a648a0d9cd45
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Terrain/Tileset/Tilemap Settings/Sliced Tiles/Tilemap_color4_17.asset
+  uploadId: 844324

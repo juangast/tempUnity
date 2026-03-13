@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 871044312881d4707b80acd0b17ac0e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Terrain/Decorations/Rubber Duck/Rubber duck.controller
+  uploadId: 844324

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83eea1eec1ade49f5aa798329a6b800a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Units/Yellow Units/Archer/Archer Yellow Animations/Archer_Yellow.controller
+  uploadId: 844324

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e713c9ea0eb6842ddaca31a682a1ab65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Pawn and Resources/Pawn/Purple Pawn/Pawn Purple Animations/Pawn_Purple.controller
+  uploadId: 844324

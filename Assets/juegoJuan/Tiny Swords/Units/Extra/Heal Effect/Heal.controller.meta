@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bf192a091a9a44b996fab21ea43175d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Units/Extra/Heal Effect/Heal.controller
+  uploadId: 844324

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e87bcba8752e4d439f95dc3deb257c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Pawn and Resources/Pawn/Black Pawn/Pawn Black Animations/Pawn_Black.controller
+  uploadId: 844324
