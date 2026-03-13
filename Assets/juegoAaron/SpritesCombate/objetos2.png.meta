@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 7983834044eec449c855e2d08cc8c85d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 92058051413045689
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_0
+  - first:
+      213: 2341972555156444733
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_1
+  - first:
+      213: -7646398070699490281
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_2
+  - first:
+      213: 2666744011084985137
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_3
+  - first:
+      213: -1215110151436007518
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_4
+  - first:
+      213: 1807850003352791447
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_5
+  - first:
+      213: 6638458970828738117
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_6
+  - first:
+      213: -7520723652224687835
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_7
+  - first:
+      213: -7604052866769067891
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_8
+  - first:
+      213: 2200493827048830859
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_9
+  - first:
+      213: -2019164859395326513
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_10
+  - first:
+      213: -1748096441649143770
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_11
+  - first:
+      213: 3971412812316025776
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_12
+  - first:
+      213: 7325822871924146392
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_13
+  - first:
+      213: 6913129788260877707
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_14
+  - first:
+      213: 7418116479622998624
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_15
+  - first:
+      213: -4360253474001012671
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_16
+  - first:
+      213: -5811638941765083621
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_17
+  - first:
+      213: 1987917053877133543
+    second: 279D5FAE-7A48-473C-A343-ACF6DDA11404_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pistola
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 514
+        width: 79
+        height: 102
+      alignment: 9
+      pivot: {x: 0.45569623, y: 0.46078432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1703d5f4e074100800000000000000
+      internalID: 92058051413045689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 837
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3650df61ab508020800000000000000
+      internalID: 2341972555156444733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rastrillo Sembrador
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 558
+        width: 303
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71489b0977982e590800000000000000
+      internalID: -7646398070699490281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulverizador Purificador
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 567
+        width: 405
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133fe9f8c8d220520800000000000000
+      internalID: 2666744011084985137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_4
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 898
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 1.1666667, y: 3.4285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a78fa451cf032fe0800000000000000
+      internalID: -1215110151436007518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 538
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 2.2307694, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7992809eff5c61910800000000000000
+      internalID: 1807850003352791447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 539
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e804c034b802c50800000000000000
+      internalID: 6638458970828738117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 537
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: -6.2307696, y: -10}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521e44f4fa501a790800000000000000
+      internalID: -7520723652224687835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 528
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8060f6a43af87690800000000000000
+      internalID: -7604052866769067891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 538
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: -4.4285717, y: -4.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b877fab1a79b98e10800000000000000
+      internalID: 2200493827048830859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 470
+        width: 158
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd3ac4224c7af3e0800000000000000
+      internalID: -2019164859395326513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 529
+        width: 65
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.5106383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e0625c838db7e0800000000000000
+      internalID: -1748096441649143770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "L\xE1tigo de Enredadera Viva"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 142
+        width: 359
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3288e49ea4d1730800000000000000
+      internalID: 3971412812316025776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xF3tem Brote Ancestral"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 126
+        width: 271
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08870961d8aa560800000000000000
+      internalID: 7325822871924146392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir Vital del Bosque
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 129
+        width: 315
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8506734aee50ff50800000000000000
+      internalID: 6913129788260877707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catapulta de Burbujas Verdes
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 132
+        width: 355
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a6666a2a172f660800000000000000
+      internalID: 7418116479622998624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_16
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 479
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148b18721944d73c0800000000000000
+      internalID: -4360253474001012671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_17
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 478
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ed3418c29e85fa0800000000000000
+      internalID: -5811638941765083621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 279D5FAE-7A48-473C-A343-ACF6DDA11404_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 330
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a94f2700869b10800000000000000
+      internalID: 1987917053877133543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos2_0
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 980
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40de5383046f47f89877db86ed531fb
+      internalID: 241321897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75d5db226397943549ed4c32e25a5035
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_1: 2341972555156444733
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_10: -2019164859395326513
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_11: -1748096441649143770
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_16: -4360253474001012671
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_17: -5811638941765083621
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_18: 1987917053877133543
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_4: -1215110151436007518
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_5: 1807850003352791447
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_6: 6638458970828738117
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_7: -7520723652224687835
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_8: -7604052866769067891
+      279D5FAE-7A48-473C-A343-ACF6DDA11404_9: 2200493827048830859
+      Catapulta de Burbujas Verdes: 7418116479622998624
+      Elixir Vital del Bosque: 6913129788260877707
+      "L\xE1tigo de Enredadera Viva": 3971412812316025776
+      Pulverizador Purificador: 2666744011084985137
+      Rastrillo Sembrador: -7646398070699490281
+      "T\xF3tem Brote Ancestral": 7325822871924146392
+      objetos2_0: 241321897
+      pistola: 92058051413045689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
